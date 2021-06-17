@@ -7,7 +7,7 @@
 #define LINK_DESCONECT 'D'
 #define LINK_SOFT      'S'
 #define LINK_HARD      'H'
-// comentario 17:24
+// comentario 17/06 10:01 
 
 char colors[]={'w', 'r', 'b', 'o', 'g', 'y'};
 //white, red, blue, orange, green, yellow
